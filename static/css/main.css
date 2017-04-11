@@ -24,3 +24,24 @@ h1, h2, h3,h4,h5,h6 {
     line-height: 30px;
     color: #555555;
 }
+
+.table-bordered th{
+    text-align: center;
+
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+    border-radius: 5px !important;
+}
+
+.form_page_header{
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 10px;
+}
+
+
+
+.form-horizontal{
+    padding: 10px;
+}
